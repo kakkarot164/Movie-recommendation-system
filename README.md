@@ -25,7 +25,7 @@ This system processes movie data based on genre, director, actors, and descripti
 
 4. Save 'sub.csv' for deployment part
 
-5. Use 'newapp.py' for deploymment & use 'pic 2' for background image of webpage
+5. Use 'newapp.py' for deploymment & use 'pic 2.png' for background image of webpage
 
 
 ## Deployment
